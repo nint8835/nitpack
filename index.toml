@@ -145,6 +145,10 @@ hash = "a7dfd31be81fce18191a5468bf24a04dff7275062d9f285e3b52eec771157390"
 metafile = true
 
 [[files]]
+file = "options.txt"
+hash = "6754469072c344427add8e110de2afadad2c732a68b0b4ccd689a97d134f2ac0"
+
+[[files]]
 file = "resourcepacks/ctm-faithful.pw.toml"
 hash = "dccf38e8c692bf5e34b20f9454d25ce284c8c880acd796f6fbd06efa35e37782"
 metafile = true
