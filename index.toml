@@ -5,6 +5,26 @@ file = "LICENSE"
 hash = "2e51912492db31d82bfc15c3ada209043aa67cc352400f92501bec1f552a1270"
 
 [[files]]
+file = "config/commandkeys.json"
+hash = "d52ac846e7e2187087298dbc9c4597e4bda12c3b6f44cc605326176d169d4fe7"
+
+[[files]]
+file = "config/lighty/base.config"
+hash = "21477f61085257655e1234546f718bbfe4e39fbcda350d1cd0b45ddfb260c902"
+
+[[files]]
+file = "config/roughlyenoughitems/config.json5"
+hash = "504998b0a09dea8fb631099b9b72dc6e3263ada3b186c0906815abde9d3b62ab"
+
+[[files]]
+file = "config/waila/waila.json5"
+hash = "0e78b89f1efdd0578ceb4b357cb6b04b4eaa3dda32e5919e3647ad43aa72e95a"
+
+[[files]]
+file = "config/waila/waila_plugins.json5"
+hash = "b90611138e280c60b61ce00811c9ab5147eaad8500fd777d08252665e6900857"
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "9460d497d821c589a08bbec71b094ce4fd8540324ee9a3f95aecc5ea1cb6399f"
 metafile = true
