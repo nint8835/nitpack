@@ -1,0 +1,13 @@
+name = "Nitpack"
+author = "nint8835"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "f6e2297500426a9a211df127ac6afa40d21c4e1e7e69b5fc55a3aa239c9eeea1"
+
+[versions]
+fabric = "0.16.5"
+minecraft = "1.21.1"
