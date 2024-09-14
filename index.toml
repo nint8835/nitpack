@@ -35,6 +35,11 @@ hash = "6c0b6ab9c61cb7a72870a2ffdb39789778c94de32f52f42908259ae4106bd449"
 metafile = true
 
 [[files]]
+file = "mods/commandkeys.pw.toml"
+hash = "56edfbafd7d76a34bee797179ee73bc6a7eda21a144787ea343b453eb68f42b4"
+metafile = true
+
+[[files]]
 file = "mods/continuity.pw.toml"
 hash = "4b9b65e3b6af2c4e2dfc86e1bda626dd4f9b69a68498744c10d85005538adb05"
 metafile = true
