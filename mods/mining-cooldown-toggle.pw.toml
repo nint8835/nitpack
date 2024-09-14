@@ -1,0 +1,8 @@
+name = "Mining Cooldown Toggle"
+filename = "mining-cooldown-toggle-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://github.com/nint8835/mining-cooldown-toggle/releases/download/1.0.0/mining-cooldown-toggle-1.0.0.jar"
+hash-format = "sha512"
+hash = "534a1a676eb2b7131d4e0288872e827e7227b96d8e596d4c868a5fd78823bfe92d9e818c1f7827bf1a7523774a2bbf009392fafc10967bc63d3970d8f4f4fa30"
