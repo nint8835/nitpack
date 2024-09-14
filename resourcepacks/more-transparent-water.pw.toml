@@ -1,0 +1,13 @@
+name = "Clearer More Transparent Water"
+filename = "Clearer Water.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/MlxsNOBS/versions/l2vsThhw/Clearer%20Water.zip"
+hash-format = "sha512"
+hash = "ed2842c8ede17639baa66c3bae6743f447e35608b26d718a079a1bf91c78921f83424e5c08ca43a2740d852421807461c7f695bd6b5baaa93ed587994c1324b9"
+
+[update]
+[update.modrinth]
+mod-id = "MlxsNOBS"
+version = "l2vsThhw"

@@ -65,6 +65,11 @@ hash = "4b9b65e3b6af2c4e2dfc86e1bda626dd4f9b69a68498744c10d85005538adb05"
 metafile = true
 
 [[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "60c41c12194921098ad378d6d3c41d027a7691b008f314642f6a262d3a4bb040"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "87d9258bfab38ed6aa8352ef7d5fd02e1e867c451e612aa1536f1fbefd5db7aa"
 metafile = true
@@ -137,4 +142,24 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "a7dfd31be81fce18191a5468bf24a04dff7275062d9f285e3b52eec771157390"
+metafile = true
+
+[[files]]
+file = "resourcepacks/ctm-faithful.pw.toml"
+hash = "dccf38e8c692bf5e34b20f9454d25ce284c8c880acd796f6fbd06efa35e37782"
+metafile = true
+
+[[files]]
+file = "resourcepacks/faithful-64x.pw.toml"
+hash = "f4a9a98cd10ccd11d790e1c264ae2b4110f38f9a7464517d1eb4eea01701c455"
+metafile = true
+
+[[files]]
+file = "resourcepacks/faithful-emissive.pw.toml"
+hash = "23cfdd524292d09320f9d3853a9deeb5c01e2bd6007edec32c77eb72c724b02c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/more-transparent-water.pw.toml"
+hash = "22013c33304790dd1996418e1928485c0dce69e0e26fdf095cc91b5bc33cb94f"
 metafile = true
