@@ -1,0 +1,13 @@
+name = "Faithful Emissive"
+filename = "Faithful 64x - Emissive AO - V1.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/A7IDUytC/versions/Q2O3GQbN/Faithful%2064x%20-%20Emissive%20AO%20-%20V1.0.zip"
+hash-format = "sha512"
+hash = "95979f061982bd17d6af0f872ca3e40da192f7701bbf388aab5f7052fc9c17c976af2ba1a065d49956bcc02e5cb597ad65c236adf0248b004d6f44c4d293ddee"
+
+[update]
+[update.modrinth]
+mod-id = "A7IDUytC"
+version = "Q2O3GQbN"

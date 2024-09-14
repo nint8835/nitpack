@@ -1,0 +1,13 @@
+name = "VeinMiner Companion"
+filename = "veinminer-fabric-2.3.0-beta2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5a1f74e69e92b4d813058ac5121c1c352b39a5c9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5474233
+project-id = 439378

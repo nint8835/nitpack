@@ -3,3 +3,172 @@ hash-format = "sha256"
 [[files]]
 file = "LICENSE"
 hash = "2e51912492db31d82bfc15c3ada209043aa67cc352400f92501bec1f552a1270"
+
+[[files]]
+file = "config/commandkeys.json"
+hash = "d52ac846e7e2187087298dbc9c4597e4bda12c3b6f44cc605326176d169d4fe7"
+
+[[files]]
+file = "config/lighty/base.config"
+hash = "21477f61085257655e1234546f718bbfe4e39fbcda350d1cd0b45ddfb260c902"
+
+[[files]]
+file = "config/roughlyenoughitems/config.json5"
+hash = "504998b0a09dea8fb631099b9b72dc6e3263ada3b186c0906815abde9d3b62ab"
+
+[[files]]
+file = "config/waila/waila.json5"
+hash = "0e78b89f1efdd0578ceb4b357cb6b04b4eaa3dda32e5919e3647ad43aa72e95a"
+
+[[files]]
+file = "config/waila/waila_plugins.json5"
+hash = "b90611138e280c60b61ce00811c9ab5147eaad8500fd777d08252665e6900857"
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "9460d497d821c589a08bbec71b094ce4fd8540324ee9a3f95aecc5ea1cb6399f"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "341dda916c32ec8328c6c41d91bc6ad41b5d78f62346aa05a8e6e4642bd45b41"
+metafile = true
+
+[[files]]
+file = "mods/badpackets.pw.toml"
+hash = "025ce95e52fae5b52f3d93a11a2186b6d58bc292dc9655b3f47e7d0d1de9479d"
+metafile = true
+
+[[files]]
+file = "mods/chest-tracker.pw.toml"
+hash = "dc90a5126c38822314b17123a8ef415c7c4eb012af41e6c027fdfc2d14261a73"
+metafile = true
+
+[[files]]
+file = "mods/cit-resewn.pw.toml"
+hash = "6314ecd4ec33177a193d41e44ff552d12bf6cdb72959d81ecd691b8688735a19"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "6c0b6ab9c61cb7a72870a2ffdb39789778c94de32f52f42908259ae4106bd449"
+metafile = true
+
+[[files]]
+file = "mods/commandkeys.pw.toml"
+hash = "56edfbafd7d76a34bee797179ee73bc6a7eda21a144787ea343b453eb68f42b4"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "4b9b65e3b6af2c4e2dfc86e1bda626dd4f9b69a68498744c10d85005538adb05"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "60c41c12194921098ad378d6d3c41d027a7691b008f314642f6a262d3a4bb040"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "87d9258bfab38ed6aa8352ef7d5fd02e1e867c451e612aa1536f1fbefd5db7aa"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "eae8d54cd5848b9e0a2dcd21be161724bcef2f27be24577fb036a8fa024dfea5"
+metafile = true
+
+[[files]]
+file = "mods/harvest.pw.toml"
+hash = "078860bac1f307372efd36c5e861dd4fac7a387f138f09989f8fff0ad12b7904"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+hash = "5f694b0c16bfbf69b05cb28eef7a553ae548e623bc2cbccc98e01d950d3611db"
+metafile = true
+
+[[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "4d5f7201ce1376ee9532e41ac5d7696e52da880b55228905a4c8b22645d210ac"
+metafile = true
+
+[[files]]
+file = "mods/journeymap.pw.toml"
+hash = "c18a6b7f42ea5bb5f6932f2f9a1327b2a7df5cde8185c2c877747618c58b5fe7"
+metafile = true
+
+[[files]]
+file = "mods/libipn.pw.toml"
+hash = "d00fa0bca321c61e0b4e50b4e3e4d4a39bb95b9f5936c2cf10ebee96c4baef73"
+metafile = true
+
+[[files]]
+file = "mods/lighty.pw.toml"
+hash = "431cdbf1154cdb061f6e107639a0b141af23f23f7392f5f48cca108bc47eb5e4"
+metafile = true
+
+[[files]]
+file = "mods/mining-cooldown-toggle.pw.toml"
+hash = "6772e7b391370ac0dbb1495553046bc6dcd787b5c69b329034fa2005be5c9f3e"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "a3753e729d72f1f51022380efd645a205d50b23f69e435385efbe1849e8cda7f"
+metafile = true
+
+[[files]]
+file = "mods/placeholder-api.pw.toml"
+hash = "58050efb1e3baae46cf316a13426ae3829f589b8fae8d59990fe4b680faad90b"
+metafile = true
+
+[[files]]
+file = "mods/rei.pw.toml"
+hash = "3c9c43c721e12fe8a67a98163bb20d35543b8f92f1c40e0bbaabf9e2a59ba32e"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "a42373ac95844aba0e2a5228b004cfd0dbab75d2e2c9252fb178252b5e4c433a"
+metafile = true
+
+[[files]]
+file = "mods/veinminer-companion.pw.toml"
+hash = "0ea1e15f3e2b82a7301f2f1665ce441b31130ced2541bd9e5d2a4c764a528003"
+metafile = true
+
+[[files]]
+file = "mods/wthit.pw.toml"
+hash = "a837d354fb42af129a4faecd8fa31a99c94e017f057ff0b73d6e623570576edb"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "a7dfd31be81fce18191a5468bf24a04dff7275062d9f285e3b52eec771157390"
+metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "6754469072c344427add8e110de2afadad2c732a68b0b4ccd689a97d134f2ac0"
+
+[[files]]
+file = "resourcepacks/ctm-faithful.pw.toml"
+hash = "dccf38e8c692bf5e34b20f9454d25ce284c8c880acd796f6fbd06efa35e37782"
+metafile = true
+
+[[files]]
+file = "resourcepacks/faithful-64x.pw.toml"
+hash = "f4a9a98cd10ccd11d790e1c264ae2b4110f38f9a7464517d1eb4eea01701c455"
+metafile = true
+
+[[files]]
+file = "resourcepacks/faithful-emissive.pw.toml"
+hash = "23cfdd524292d09320f9d3853a9deeb5c01e2bd6007edec32c77eb72c724b02c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/more-transparent-water.pw.toml"
+hash = "22013c33304790dd1996418e1928485c0dce69e0e26fdf095cc91b5bc33cb94f"
+metafile = true
