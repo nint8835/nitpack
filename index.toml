@@ -5,12 +5,16 @@ file = "LICENSE"
 hash = "2e51912492db31d82bfc15c3ada209043aa67cc352400f92501bec1f552a1270"
 
 [[files]]
+file = "README.md"
+hash = "af57e401d26af361d3ea390f595decae9df9dd1659f6b4aee49d7f3fbc8c9d7b"
+
+[[files]]
 file = "config/commandkeys.json"
 hash = "d52ac846e7e2187087298dbc9c4597e4bda12c3b6f44cc605326176d169d4fe7"
 
 [[files]]
 file = "config/lighty/base.config"
-hash = "21477f61085257655e1234546f718bbfe4e39fbcda350d1cd0b45ddfb260c902"
+hash = "17a2652e2e4b2e7a7a7a1fecde3298a16a8fdeae0e6ad404ff2e9df88f8fa82d"
 
 [[files]]
 file = "config/roughlyenoughitems/config.json5"
@@ -151,7 +155,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "6754469072c344427add8e110de2afadad2c732a68b0b4ccd689a97d134f2ac0"
+hash = "77c4ccbae39501634c05c95a67dc95f4f282e0000c833223603590fcebed6543"
 
 [[files]]
 file = "resourcepacks/ctm-faithful.pw.toml"

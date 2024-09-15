@@ -75,9 +75,9 @@ tutorialStep:none
 mouseWheelSensitivity:1.0
 rawMouseInput:true
 glDebugVerbosity:1
-skipMultiplayerWarning:false
+skipMultiplayerWarning:true
 hideMatchedNames:true
-joinedFirstServer:false
+joinedFirstServer:true
 hideBundleTutorial:false
 syncChunkWrites:false
 showAutosaveIndicator:true
@@ -143,11 +143,12 @@ key_key.journeymap.fullscreen.north:key.keyboard.up
 key_key.journeymap.fullscreen.south:key.keyboard.down
 key_key.journeymap.fullscreen.east:key.keyboard.right
 key_key.journeymap.fullscreen.west:key.keyboard.left
-key_key.journeymap.fullscreen_follow_player:key.keyboard.f
+key_key.journeymap.fullscreen_follow_player:key.keyboard.unknown
 key_key.journeymap.fullscreen.disable_buttons:key.keyboard.unknown
-key_key.journeymap.toggle_entity_names:key.keyboard.g
+key_key.journeymap.toggle_entity_names:key.keyboard.unknown
 key_key.lighty.enable:key.keyboard.f7
 key_key.lighty.toggle:key.keyboard.f8
+key_key.miningcooldowntoggle.toggle:key.keyboard.g
 key_key.modmenu.open_menu:key.keyboard.unknown
 key_key.veinminer_companion.activate_veinminer:key.keyboard.grave.accent
 key_key.veinminer_companion.next_pattern:key.keyboard.right.bracket
@@ -157,7 +158,7 @@ key_key.waila.show_overlay:key.keyboard.unknown
 key_key.waila.toggle_liquid:key.keyboard.unknown
 key_key.waila.show_recipe_input:key.keyboard.unknown
 key_key.waila.show_recipe_output:key.keyboard.unknown
-soundCategory_master:0.5083557533112583
+soundCategory_master:0.25326598716887416
 soundCategory_music:0.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
