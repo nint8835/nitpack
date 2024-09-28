@@ -45,7 +45,7 @@ metafile = true
 
 [[files]]
 file = "mods/chest-tracker.pw.toml"
-hash = "0510636fc28fc08d2ba4d5a79e1c26462fb4165181df8b4e2a08cf9f1dfaf1e7"
+hash = "466227cb22a8020173a10dc225d6b933d54179422d4be9d39f9c1e164f933f4e"
 metafile = true
 
 [[files]]
@@ -75,7 +75,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "87d9258bfab38ed6aa8352ef7d5fd02e1e867c451e612aa1536f1fbefd5db7aa"
+hash = "f79a3cdea893a12fa0955186df68681016f5b98d94d31e8ea59fa250465578f6"
 metafile = true
 
 [[files]]
@@ -130,7 +130,7 @@ metafile = true
 
 [[files]]
 file = "mods/rei.pw.toml"
-hash = "a99fe3dae118052cbc06d47276488d3c41b380da3cf3d7f8e678090efcf2a75b"
+hash = "7790afcb74e2fa740ca2fdefc4651c38466de3ec1709e1e618277d5e8d62181c"
 metafile = true
 
 [[files]]
