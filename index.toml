@@ -45,7 +45,7 @@ metafile = true
 
 [[files]]
 file = "mods/chest-tracker.pw.toml"
-hash = "466227cb22a8020173a10dc225d6b933d54179422d4be9d39f9c1e164f933f4e"
+hash = "4dc4388ee1fad16e65ecfbea007ed388fba8808e3c72f479bce5dd63e071eae1"
 metafile = true
 
 [[files]]
@@ -60,7 +60,7 @@ metafile = true
 
 [[files]]
 file = "mods/commandkeys.pw.toml"
-hash = "11025e27745077eaf371e7b286a9fc5bbe7810c4c92c187aa9f94ce5b6db7508"
+hash = "715dedc8a8f06da099f56e47d2090db41db23702267e991459338559c7f22847"
 metafile = true
 
 [[files]]
@@ -100,7 +100,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "c18a6b7f42ea5bb5f6932f2f9a1327b2a7df5cde8185c2c877747618c58b5fe7"
+hash = "3105adabd282d0bb1bb974258a2a745f2d32993c5ad19fdf265a6c00ba584d43"
 metafile = true
 
 [[files]]
