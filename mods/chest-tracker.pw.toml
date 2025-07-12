@@ -1,13 +1,18 @@
 name = "Chest Tracker"
-filename = "chesttracker-2.6.3+1.21.1.jar"
+filename = "chesttracker-2.6.7+1.21.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/ni4SrKmq/versions/8nV069r4/chesttracker-2.6.3%2B1.21.1.jar"
+url = "https://cdn.modrinth.com/data/ni4SrKmq/versions/3MLcSYh8/chesttracker-2.6.7%2B1.21.1.jar"
 hash-format = "sha512"
-hash = "a6b4c3ec195a7753c8ca7a8c7d7ddb18a026e9c9e45fb36d5f73c57192cb31cbf21604fc18946caada588c63681ae62f6778bba10672034e0ed79d5b62766b2b"
+hash = "f5f32f99d40f7f62d18b190f1b61ee4a1a0a24e0dc807b46eb53ed40d456cc18dab37f67290eff0741cfebdeb2294888f1dd69b1e884868cf7f91e556f6077f0"
 
 [update]
 [update.modrinth]
 mod-id = "ni4SrKmq"
-version = "8nV069r4"
+version = "3MLcSYh8"
+
+[option]
+optional = true
+default = false
+description = "Unsupported in 1.21.7"
