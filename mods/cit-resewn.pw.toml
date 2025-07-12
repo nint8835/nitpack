@@ -11,3 +11,8 @@ hash = "24338b35423798b3d842025d2a8725b980980b7ccb168b876e21ea1d4067ecba3f67918b
 [update.modrinth]
 mod-id = "otVJckYQ"
 version = "JUnP9V1A"
+
+[option]
+optional = true
+default = false
+description = "Unsupported in 1.21.7"
